@@ -1,3 +1,5 @@
+<%= column_chart Expense.group_by_month(:date).sum(:amount), prefix: "$", thousands: "," %>
+
 <table>
   <thead>
     <tr>
