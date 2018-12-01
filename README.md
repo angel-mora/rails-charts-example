@@ -1,24 +1,3 @@
-# README
+# Gráficas en Ruby on Rails con Chartkick
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Este repositorio contiene el código de la aplicación de ejemplo que se usó en [este video tutorial](https://youtu.be/W92AlkwQn3M), y que muestra cómo implementar gráficas en Ruby on Rails con una gema llamada [Chartkick](https://chartkick.com/).
